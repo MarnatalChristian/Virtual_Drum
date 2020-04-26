@@ -1,2 +1,5 @@
 # Virtual_Drum
-Ini tugas DOM
+
+Terinspirasi dari tugas dom piano seseorang.
+give thanks!
+
